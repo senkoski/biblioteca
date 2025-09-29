@@ -25,7 +25,6 @@ async function main() {
     }
   }
 
-  // Criar livros individualmente
   const books = [
     { title: '1984', author: 'George Orwell', available: true },
     { title: 'Dom Casmurro', author: 'Machado de Assis', available: true },
